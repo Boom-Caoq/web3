@@ -1,0 +1,1 @@
+RPC = 'wss://eth-mainnet.g.alchemy.com/v2/YOTIlPwEaVmBGnjyGREb11fyj6xwqnV1'
